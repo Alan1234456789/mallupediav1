@@ -1,10 +1,10 @@
 class script(object):
-    START_TXT = """𝙷𝙴𝙻𝙾 {},
+    START_TXT = """HELO {},
  I'm a Telegram Movie Search Bot
 Click SEARCH Button and type Movie name and year (Correct imdb Spelling)..
 Bot Updates @MalluPedia_bot"""
-    HELP_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
+    HELP_TXT = """HEY {}
+HERE IS THE HELP FOR MY COMMANDS."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://youtu.be/fyFKnde_Jz8>Team Eva Maria</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
@@ -18,7 +18,7 @@ Bot Updates @MalluPedia_bot"""
 - Deply https://youtu.be/fyFKnde_Jz8
 
 <b>DEVS:</b>
-- <a href=https://t.me/MalluPefia_bot>Team Eva Maria</a>"""
+- <a href=https://t.me/MalluPedia_bot>Team Eva Maria</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and tessa will respond whenever a keyword is found the message
