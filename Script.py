@@ -1,6 +1,5 @@
 class script(object):
-    START_TXT = """HELO {},
- I'm a Telegram Movie Search Bot
+    START_TXT = """HELO {}, I'm a Telegram Movie Search Bot
 Click SEARCH Button and type Movie name and year (Correct imdb Spelling)..
 Bot Updates @MalluPedia_bot"""
     HELP_TXT = """HEY {}
