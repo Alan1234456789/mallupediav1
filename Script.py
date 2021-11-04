@@ -1,7 +1,8 @@
 class script(object):
-    START_TXT = """HELO {}, I'm a Telegram Movie Search Bot
-Click SEARCH Button and type Movie name and year (Correct imdb Spelling)..
-Bot Updates @MalluPediabot"""
+    START_TXT =  """
+**Hi, I'm Media Search bot**
+Here you can search files in inline mode. Just press follwing buttons and start searching.
+"""
     HELP_TXT = """HEY {}
 HERE IS THE HELP FOR MY COMMANDS."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
